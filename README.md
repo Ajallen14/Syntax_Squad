@@ -8,7 +8,7 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. [Alwin](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+2. [Allen Jude](https://github.com/Ajallen14)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
